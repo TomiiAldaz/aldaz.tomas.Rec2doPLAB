@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1625661225 source:d:\facultad\laboratorio 1\aldaz.rec2doparcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625661160 d:\facultad\laboratorio 1\aldaz.rec2doparcial\linkedlist.h
+
+1627481780 source:d:\facultad\laboratorio 1\aldaz.rec2doparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bicicleta.h"
+	"LinkedList.h"
+	"Controller.h"
+	"informes.h"
+
+1627482573 d:\facultad\laboratorio 1\aldaz.rec2doparcial\bicicleta.h
+	"LinkedList.h"
+
+1627482577 d:\facultad\laboratorio 1\aldaz.rec2doparcial\controller.h
+	"LinkedList.h"
+
+1627480969 source:d:\facultad\laboratorio 1\aldaz.rec2doparcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Parser.h"
+	"LinkedList.h"
+	"bicicleta.h"
+
+1627482577 d:\facultad\laboratorio 1\aldaz.rec2doparcial\parser.h
+	"LinkedList.h"
+
+1627474705 source:d:\facultad\laboratorio 1\aldaz.rec2doparcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"Controller.h"
+	"LinkedList.h"
+	"bicicleta.h"
+	"Parser.h"
+
+1627479709 source:d:\facultad\laboratorio 1\aldaz.rec2doparcial\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<malloc.h>
+	"bicicleta.h"
+
+1627482577 source:d:\facultad\laboratorio 1\aldaz.rec2doparcial\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"informes.h"
+	"bicicleta.h"
+
+1627482577 d:\facultad\laboratorio 1\aldaz.rec2doparcial\informes.h
+
